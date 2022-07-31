@@ -2,8 +2,9 @@
 
 Hi. My name is Travis. This is my GitHub. My work focuses mainly on the application of reinforcement learning in control. I also do a bit of work in cybersecurity. I prefer Python for most things, but also have experience in Rust and MATLAB. I earned my PhD in Electrical and Computer Engineering from [Queen's University](https://www.queensu.ca/) in 2018 and am now an adjunct professor (research) at the [Royal Military College of Canada](https://www.rmc-cmr.ca/en).
 
+[Summary of published academic work](https://scholar.google.com/citations?user=RGlv4ZUAAAAJ&hl=en)
 
-Main stuff I have on the go right now:
+Main repos I'm working on right now:
 
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjards&repo=cracking_rust"/>
 <img src="https://github-readme-stats.vercel.app/api/pin/?username=tjards&repo=dynamic_encirclement"/>
