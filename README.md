@@ -4,17 +4,5 @@ Hi. My name is Travis. This is my GitHub. My work focuses mainly on the applicat
 
 [Summary of published academic work](https://scholar.google.com/citations?user=RGlv4ZUAAAAJ&hl=en) *(links to Google Scholar)*
 
-#### Here are some recent results:
-
-| | | 
-|:-------------------------:|:-------------------------:|
-|<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=tjards&repo=dynamic_encirclement#gh-light-mode-only" />| <img src="https://github.com/tjards/dynamic_encirclement/raw/master/Figs/animation_03.gif" width = "200"/>
-<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=tjards&repo=Flocks_Mobs_and_Figure_Eights"/> |<img src="https://github.com/tjards/Flocks_Mobs_and_Figure_Eights/blob/master/quadcopter.gif" width = "200"/>|
-
-#### I am also in the process of improving my skills in Rust:
-
-<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=tjards&repo=cracking_rust"/>  
-
-
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/p-travis-jardine-403b3a148)
 
