@@ -4,15 +4,17 @@ Hi. My name is Travis. This is my GitHub. My work focuses mainly on the applicat
 
 [Summary of published academic work](https://scholar.google.com/citations?user=RGlv4ZUAAAAJ&hl=en)
 
-Main repos I'm working on right now:
+#### Here are some recent results:
 
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tjards&repo=cracking_rust"/>
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=tjards&repo=dynamic_encirclement"/>
+| | | 
+|:-------------------------:|:-------------------------:|
+|<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=tjards&repo=dynamic_encirclement" />| <img src="https://github.com/tjards/dynamic_encirclement/raw/master/Figs/animation_03.gif" width = "200"/>
+<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=tjards&repo=Flocks_Mobs_and_Figure_Eights"/> |<img src="https://github.com/tjards/quadcopter_lemniscate/blob/master/Simulation/Gifs/Raw/animation_multi_blue_and_blue_mob2.gif" width = "200"/>|
 
-Here's a breakdown of my public repos by language:
+#### I am also in the process of improving my skills in Rust:
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=tjards&layout=compact"/>
-
+<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=tjards&repo=cracking_rust"/>  
 
 
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/p-travis-jardine-403b3a148)
+
