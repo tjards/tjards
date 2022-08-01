@@ -9,7 +9,7 @@ Hi. My name is Travis. This is my GitHub. My work focuses mainly on the applicat
 | | | 
 |:-------------------------:|:-------------------------:|
 |<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=tjards&repo=dynamic_encirclement" />| <img src="https://github.com/tjards/dynamic_encirclement/raw/master/Figs/animation_03.gif" width = "200"/>
-<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=tjards&repo=Flocks_Mobs_and_Figure_Eights"/> |<img src="https://github.com/tjards/quadcopter_lemniscate/blob/master/Simulation/Gifs/Raw/animation_multi_blue_and_blue_mob2.gif" width = "200"/>|
+<img align="top" src="https://github-readme-stats.vercel.app/api/pin/?username=tjards&repo=Flocks_Mobs_and_Figure_Eights"/> |<img src="https://github.com/tjards/Flocks_Mobs_and_Figure_Eights/blob/master/quadcopter.gif" width = "200"/>|
 
 #### I am also in the process of improving my skills in Rust:
 
