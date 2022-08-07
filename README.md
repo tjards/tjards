@@ -4,7 +4,7 @@ Hi. My name is Travis. This is my GitHub. My work focuses mainly on the applicat
 
 Here is a funny xkcd comic:
 
-<img src="https://imgs.xkcd.com/comics/git.png" style="height: 400px"/>
+<img src="https://imgs.xkcd.com/comics/git.png" style="height: 300px"/>
 
 <a href="https://www.linkedin.com/in/p-travis-jardine-403b3a148"><img src="https://github.com/tjards/tjards/blob/main/linkedin2.png" align="left" height="33" ></a>
 <a href="https://www.researchgate.net/profile/Peter-Jardine"><img src="https://github.com/tjards/tjards/blob/main/RG2.png" align="left" height="33" ></a>
