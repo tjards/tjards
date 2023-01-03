@@ -6,6 +6,9 @@ What I'm working on now:
 
 - [Network control using graph methods](https://github.com/tjards/pinning_swarming)
 - [Investigation into swarming strategies](https://github.com/tjards/swarming_sim)
+- [Learning a new programming language (Rust)](https://github.com/tjards/cracking_rust)
+
+
 
 
 <a href="https://www.linkedin.com/in/p-travis-jardine-403b3a148"><img src="https://github.com/tjards/tjards/blob/main/linkedin2.png" align="left" height="33" ></a>
