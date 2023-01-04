@@ -1,6 +1,6 @@
 # Welcome to my GitHub
 
-Hi. My name is Travis. This is my GitHub. My work focuses mainly on modeling and control of aerial robotics. I also do a bit of work in cybersecurity. I prefer Python for most things, but also have experience in a few other programming languages. I earned my [PhD in Electrical and Computer Engineering](https://qspace.library.queensu.ca/handle/1974/24245) from [Queen's University](https://www.queensu.ca/) in 2018 and am now an adjunct professor (research) at the [Royal Military College of Canada](https://www.rmc-cmr.ca/en).
+Hi. My name is Travis. This is my GitHub. My work focuses mainly on modeling and control of aerial robotics. I also do a bit of work in cybersecurity. I prefer Python for most things. I earned my [PhD in Electrical and Computer Engineering](https://qspace.library.queensu.ca/handle/1974/24245) from [Queen's University](https://www.queensu.ca/) in 2018 and am now an adjunct professor (research) at the [Royal Military College of Canada](https://www.rmc-cmr.ca/en).
 
 What I'm working on now:
 
