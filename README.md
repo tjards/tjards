@@ -9,8 +9,8 @@ What I'm working on now:
 - [Learning a new programming language (Rust)](https://github.com/tjards/cracking_rust)
 
 <p float="center">
-    <img src="https://github.com/tjards/pinning_swarming/blob/master/Figs/animation_pin_big2.gif" width="50%" />
-    
+    <img src="https://github.com/tjards/pinning_swarming/blob/master/Figs/animation_pin_big2.gif" width="40%" />
+    <img src="https://github.com/tjards/pinning_swarming/blob/master/Figs/animation_pin_big2_s.png" width="40%" />
 </p>
 
 Some links:
