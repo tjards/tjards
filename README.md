@@ -6,7 +6,6 @@ What I'm working on now:
 
 - [Network control using graph methods](https://github.com/tjards/pinning_swarming)
 - [Investigation into swarming strategies](https://github.com/tjards/swarming_sim)
-- [Learning a new programming language (Rust)](https://github.com/tjards/cracking_rust)
 
 <p float="center">
     <img src="https://github.com/tjards/pinning_swarming/blob/master/Figs/animation_pin_big2.gif" width="40%" />
