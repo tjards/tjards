@@ -6,6 +6,7 @@ Stuff I'm working on now:
 
 - [Network control using graph methods](https://github.com/tjards/pinning_swarming)
 - [Investigation into swarming strategies](https://github.com/tjards/swarming_sim)
+- [Some work in swarm topologies](https://github.com/tjards/twisted_circles)
 
 Some links:
 
