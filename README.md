@@ -12,8 +12,7 @@ Link to my personal website: [here](https://tjards.github.io/)
 &nbsp;
 &nbsp;
 
-![Languages Pie Chart](https://github-readme-stats-godkingjay.vercel.app/api/top-langs/?username=tjards&layout=pie)
-
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
 
 <a href="https://www.linkedin.com/in/p-travis-jardine-403b3a148"><img src="https://github.com/tjards/tjards/blob/main/linkedin2.png" align="left" height="33" ></a>
 <a href="https://www.researchgate.net/profile/Peter-Jardine"><img src="https://github.com/tjards/tjards/blob/main/RG2.png" align="left" height="33" ></a>
