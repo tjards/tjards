@@ -12,7 +12,7 @@ Link to my personal website: [here](https://tjards.github.io/)
 &nbsp;
 &nbsp;
 
-http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username={username}&theme={theme_name}&exclude={exclude}
+http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tjards&theme=github
 
 <a href="https://www.linkedin.com/in/p-travis-jardine-403b3a148"><img src="https://github.com/tjards/tjards/blob/main/linkedin2.png" align="left" height="33" ></a>
 <a href="https://www.researchgate.net/profile/Peter-Jardine"><img src="https://github.com/tjards/tjards/blob/main/RG2.png" align="left" height="33" ></a>
