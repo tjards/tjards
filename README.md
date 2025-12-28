@@ -11,7 +11,7 @@ Here are some things I am working on:
 - [Twisted Circles](https://github.com/tjards/twisted_circles): Forming simple closed curves by twisting circles.
 - [Finding Neighbours](https://github.com/tjards/finding_neighbours): An algorithm for finding consistent neighbours in busy trajectories.
 - In a private archive, I am also working on image processing on the [Adver-City](https://github.com/QUARRG/Adver-City) dataset.
-- Various other tangents and reflections found on personal website: [here](https://tjards.github.io/)
+- Various other tangents and reflections found on personal website: [here](https://tjards.github.io/).
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tjards&theme=default)
 
