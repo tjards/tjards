@@ -4,6 +4,14 @@ Hi. My name is Travis. This is my GitHub. My work focuses mainly on control and 
 
 My primary development project is the [multi-agent coordination simulator](https://github.com/tjards/multi-agent_sim), where I integrate various swarming techniques into a single environment for use in my academic research. You will see various offshoots where I play with new concepts, but they typically get intergated back into this project. 
 
+Here are some things I am working on:
+
+- [Latent Linear Manifolds](https://github.com/tjards/latent_linear_manifolds): DNN-based autoencoder to learn the linear essence of swarm dynamics.
+- [Hypospace Learning](https://github.com/tjards/hypospace_learning): Learning and control of swarms in lower-dimensional hypospace
+- [Twisted Circles](https://github.com/tjards/twisted_circles): Forming simple closed curves by twisting circles.
+- [Finding Neighbours](https://github.com/tjards/finding_neighbours): An algorithm for finding consistent neighbours in busy trajectories.
+- In a private archive, I am also working on image processing on the [Adver-City](https://github.com/QUARRG/Adver-City) dataset. 
+
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tjards&theme=default)
 
 Link to my personal website: [here](https://tjards.github.io/)
