@@ -2,6 +2,8 @@
 
 Hi. My name is Travis. This is my GitHub. My work focuses mainly on control and learning in multi-agent robotics applications. I prefer Python for most things. 
 
+I am not a software developer, but I am a competent researcher and am actively working to improve the quality and rigor of my code.
+
 My primary development project is the [multi-agent coordination simulator](https://github.com/tjards/multi-agent_sim), where I integrate various swarming techniques into a single environment for use in my academic research. You will see various offshoots where I play with new concepts, but they typically get intergated back into this project. 
 
 Here are some things I am working on:
