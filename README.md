@@ -1,6 +1,6 @@
 # Welcome to my GitHub
 
-Hi. My name is Travis. This is my GitHub. My work focuses mainly on control and learning in multi-agent robotics applications. I prefer Python for most things. 
+Hi. My name is Travis. This is my GitHub. My work focuses mainly on control and learning in multi-agent robotics applications. 
 
 I am not a software developer, but I am a competent researcher and am actively working to improve the quality and rigor of my code.
 
