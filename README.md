@@ -12,7 +12,7 @@ Here are some things I am working on:
 - [Hypospace Learning](https://github.com/tjards/hypospace_learning): Learning and control of swarms in lower-dimensional hypospace
 - [Twisted Circles](https://github.com/tjards/twisted_circles): Forming simple closed curves by twisting circles.
 - [Finding Neighbours](https://github.com/tjards/finding_neighbours): An algorithm for finding consistent neighbours in busy trajectories.
-- In a private archive, I am also working on image processing on the [Adver-City](https://github.com/QUARRG/Adver-City) dataset.
+- I am working on an [ML Workflow](https://github.com/tjards/adver-city-ETL) for the [Adver-City dataset](https://labs.cs.queensu.ca/quarrg/datasets/adver-city/).
 - Various other tangents and reflections found on personal website [here](https://tjards.github.io/).
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tjards&theme=default)
