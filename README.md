@@ -15,7 +15,7 @@ Here are some other things I am working on:
 - I am working on an [ML Workflow](https://github.com/tjards/adver-city-ETL) for the [Adver-City dataset](https://labs.cs.queensu.ca/quarrg/datasets/adver-city/).
 - Various other tangents and reflections found on personal website [here](https://tjards.github.io/).
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=tjards&theme=default)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=tjards&layout=compact&custom_title=Top%20Languages&hide=Jupyter%20Notebook)
 
 
 
