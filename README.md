@@ -8,7 +8,6 @@ My primary development project is the [multi-agent coordination simulator](https
 
 Here are some other things I am working on:
 
-- [Latent Linear Manifolds](https://github.com/tjards/latent_linear_manifolds): DNN-based autoencoder to learn the linear essence of swarm dynamics.
 - [Hypospace Learning](https://github.com/tjards/multi-agent_sim/blob/master/docs/readme_subpages/dynamic_structures.md): Learning and control of swarms in lower-dimensional hypospace
 - [Twisted Circles](https://github.com/tjards/twisted_circles): Forming simple closed curves by twisting circles.
 - [Finding Neighbours](https://github.com/tjards/finding_neighbours): An algorithm for finding consistent neighbours in busy trajectories.
