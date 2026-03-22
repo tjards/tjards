@@ -7,7 +7,7 @@ Hi. My name is Travis. This is my GitHub. My work focuses mainly on control and 
 Here are things I am working on:
 
 - My primary development project is the [multi-agent coordination simulator](https://github.com/tjards/multi-agent_sim), where I integrate various swarming techniques into a single environment for use in my academic research. You will see various offshoots where I play with new concepts, but they typically get intergated back into this project. 
-- [reinforcement learning in swarm embeddings](https://github.com/tjards/multi-agent_sim/blob/master/docs/readme_subpages/dynamic_structures.md): Learning and control of swarms in lower-dimensional hypospace, based on geometric embeddings. 
+- investigation of [reinforcement learning in swarm embeddings](https://github.com/tjards/multi-agent_sim/blob/master/docs/readme_subpages/dynamic_structures.md).
 - a [machine learning workflow](https://github.com/tjards/adver-city-ETL) for the [Adver-City](https://labs.cs.queensu.ca/quarrg/datasets/adver-city/) coorperative navigation dataset.
 - Various other tangents and reflections found on personal website [here](https://tjards.github.io/).
 
