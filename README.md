@@ -8,10 +8,8 @@ My primary development project is the [multi-agent coordination simulator](https
 
 Here are some other things I am working on:
 
-- [Hypospace Learning](https://github.com/tjards/multi-agent_sim/blob/master/docs/readme_subpages/dynamic_structures.md): Learning and control of swarms in lower-dimensional hypospace
-- [Twisted Circles](https://github.com/tjards/twisted_circles): Forming simple closed curves by twisting circles.
-- [Finding Neighbours](https://github.com/tjards/finding_neighbours): An algorithm for finding consistent neighbours in busy trajectories.
-- I am working on an [ML Workflow](https://github.com/tjards/adver-city-ETL) for the [Adver-City dataset](https://labs.cs.queensu.ca/quarrg/datasets/adver-city/).
+- [reinforcement learning in swarm embeddings](https://github.com/tjards/multi-agent_sim/blob/master/docs/readme_subpages/dynamic_structures.md): Learning and control of swarms in lower-dimensional hypospace, based on geometric embeddings. 
+- [cooperative navigation machine learning workflow](https://github.com/tjards/adver-city-ETL) for the [Adver-City dataset](https://labs.cs.queensu.ca/quarrg/datasets/adver-city/).
 - Various other tangents and reflections found on personal website [here](https://tjards.github.io/).
 
 ![](https://github-readme-stats.vercel.app/api?username=tjards&hide=prs,contribs&custom_title=Stats&card_width=450)
