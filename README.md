@@ -4,6 +4,7 @@ Hi, my name is Travis.
 - I am an adjunct assistant professor at the [School of Computing](https://labs.cs.queensu.ca/quarrg/) at Queen's University. 
 - My research lies at the intersection of control, learning, and cooperation in robotics. 
 - I strive to apply structure to learning processes to ensure stability, reliability, and safety in the physical world.
+- I occasionally publish my work [here](https://scholar.google.com/citations?hl=en&user=RGlv4ZUAAAAJ&view_op=list_works&sortby=pubdate).
 
 Main projects:
 
