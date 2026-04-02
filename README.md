@@ -16,7 +16,6 @@ Main projects:
 
 Other things I am working on:
 
-- Interactive [web app](https://github.com/tjards/web_shepherd) illustrating swarming behaviours.
 - Investigation of [reinforcement learning in swarm embeddings](https://github.com/tjards/multi-agent_sim/blob/master/docs/readme_subpages/dynamic_structures.md).
 - Various less-technical tangents and reflections found on personal website [here](https://tjards.github.io/).
 
