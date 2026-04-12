@@ -1,17 +1,17 @@
-## about me
+### about me
 
 - I am an adjunct assistant professor at the [School of Computing](https://labs.cs.queensu.ca/quarrg/) at Queen's University. 
 - My research lies at the intersection of control, learning, and cooperation in robotics. 
 - I apply structure to learning processes to ensure stability, reliability, and safety in the physical world.
 - I occasionally publish my work [here](https://scholar.google.com/citations?hl=en&user=RGlv4ZUAAAAJ&view_op=list_works&sortby=pubdate).
 
-## main projects
+### main projects
 
 | [<img src="m-a_s.png" width="120"><br/>multi-agent sim](https://github.com/tjards/multi-agent_sim) | [<img src="advML.png" width="120"><br/>adver-city ML](https://github.com/tjards/adver-city-ETL) | [<img src="webShep.png" width="120"><br/>web shepherd](https://tjards.github.io/web_shepherd/) | 
 | :-: | :-: |:-: |
 | swarming simulator for researchers | machine vision in adverse weather |interactive web app of shepherding|
 
-## other things
+### other things
 
 - Investigation of [reinforcement learning in swarm embeddings](https://github.com/tjards/multi-agent_sim/blob/master/docs/readme_subpages/dynamic_structures.md).
 - Various less-technical tangents and reflections found on personal website [here](https://tjards.github.io/).
