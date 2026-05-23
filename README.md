@@ -7,9 +7,15 @@
 
 ### main projects
 
+| [<img src="m-a_s.png" width="120"><br/>multi-agent sim](https://github.com/tjards/multi-agent_sim) | [<img src="advML.png" width="120"><br/>adver-city ML](https://github.com/tjards/adver-city-ETL) | 
+| :-: | :-: |
+| swarming simulator for researchers | machine vision in adverse weather |interactive web app of shepherding|
+
+<!-- 
 | [<img src="m-a_s.png" width="120"><br/>multi-agent sim](https://github.com/tjards/multi-agent_sim) | [<img src="advML.png" width="120"><br/>adver-city ML](https://github.com/tjards/adver-city-ETL) | [<img src="webShep.png" width="120"><br/>web shepherd](https://tjards.github.io/web_shepherd/) | 
 | :-: | :-: |:-: |
-| swarming simulator for researchers | machine vision in adverse weather |interactive web app of shepherding|
+| swarming simulator for researchers | machine vision in adverse weather |interactive web app of shepherding| 
+-->
 
 ### other things
 
