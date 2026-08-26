@@ -7,9 +7,9 @@
 
 ### main projects
 
-| [<img src="m-a_s.png" width="120"><br/>multi-agent sim](https://github.com/tjards/multi-agent_sim) | [<img src="advML.png" width="120"><br/>adver-city ML](https://github.com/tjards/adver-city-ETL) | [<img src="dpc.png" width="120"><br/>data predictive control](https://github.com/tjards/Data_Predictive_Control) |
+| [<img src="m-a_s.png" width="120"><br/>multi-agent sim](https://github.com/tjards/multi-agent_sim) | [<img src="advML.png" width="120"><br/>adver-city ML](https://github.com/tjards/adver-city-ETL) | [<img src="dpc.png" width="120"><br/>Nuanced Model Predictive Control](https://github.com/tjards/Data_Predictive_Control) |
 | :-: | :-: | :-: |
-| swarming simulator for researchers | machine vision in adverse weather | ML for safety-critical control problems|
+| swarming simulator for researchers | machine vision in adverse weather | subtle context-dependent refinements|
 
 <!-- 
 | [<img src="m-a_s.png" width="120"><br/>multi-agent sim](https://github.com/tjards/multi-agent_sim) | [<img src="advML.png" width="120"><br/>adver-city ML](https://github.com/tjards/adver-city-ETL) | [<img src="webShep.png" width="120"><br/>web shepherd](https://tjards.github.io/web_shepherd/) | 
