@@ -4,6 +4,8 @@
 - My research lies at the intersection of control, learning, and cooperation in robotics. 
 - I apply structure to learning processes to ensure stability, reliability, and safety in the physical world.
 - I occasionally publish my work [here](https://scholar.google.com/citations?hl=en&user=RGlv4ZUAAAAJ&view_op=list_works&sortby=pubdate).
+- Some of my code and documentation is developed with the assistance of LLMs, especially when using ```matplotlib```.
+  
 
 ### main projects
 
