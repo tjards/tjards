@@ -2,11 +2,7 @@
 
 - I am an adjunct assistant professor at the [School of Computing](https://labs.cs.queensu.ca/quarrg/) at Queen's University. 
 - My research lies at the intersection of control, learning, and cooperation in robotics. 
-- I apply structure to learning processes to ensure stability, reliability, and safety in the physical world.
-- Some of my code and documentation is developed with the assistance of LLMs, especially when using ```matplotlib```.
 - I occasionally publish my work [here](https://scholar.google.com/citations?hl=en&user=RGlv4ZUAAAAJ&view_op=list_works&sortby=pubdate).
-
-  
 
 ### main projects
 
@@ -23,6 +19,7 @@
 ### other things
 
 - Investigation of [reinforcement learning in swarm embeddings](https://github.com/tjards/multi-agent_sim/blob/master/docs/readme_subpages/dynamic_structures.md).
+- Some of my code and documentation is developed with the assistance of LLMs, especially when using ```matplotlib```.
 
 
 &nbsp;
