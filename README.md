@@ -2,7 +2,7 @@
 
 - I am an adjunct assistant professor at the [School of Computing](https://labs.cs.queensu.ca/quarrg/) at Queen's University. 
 - My research lies at the intersection of control, learning, and cooperation in robotics. 
-- I occasionally publish my work [here](https://scholar.google.com/citations?hl=en&user=RGlv4ZUAAAAJ&view_op=list_works&sortby=pubdate).
+- You can explore my publications [here](https://tjards.github.io/scholarnaut/).
 
 ### main projects
 
