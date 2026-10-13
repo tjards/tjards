@@ -17,7 +17,7 @@
 -->
 
 ### other things
-
+- Building my own LLM from scratch (repo private for now).
 - Investigation of [reinforcement learning in swarm embeddings](https://github.com/tjards/multi-agent_sim/blob/master/docs/readme_subpages/dynamic_structures.md).
 - Some of my code and documentation is developed with the assistance of LLMs, especially when using ```matplotlib```.
 
