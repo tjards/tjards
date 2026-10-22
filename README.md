@@ -23,9 +23,10 @@
 -->
 
 ### other things
-- I am building my own LLM from scratch (repo private for now).
+- Building my own LLM from scratch (repo private for now).
 - Investigation of [reinforcement learning in swarm embeddings](https://github.com/tjards/multi-agent_sim/blob/master/docs/readme_subpages/dynamic_structures.md).
-- Nuanced Model Predictive Control (nMPC): a lightweight reinforcement-learning layer wrapped around conventional MPC to adapt to subtle changes in the environment.
+- Developing Nuanced Model Predictive Control (nMPC): a lightweight reinforcement-learning layer wrapped around conventional MPC to adapt to subtle changes in the environment (repo private for now).
+- Working on ways to [better visualize](https://tjards.github.io/scholarnaut/) academic research. 
 - Some of my code and documentation is developed with the assistance of LLMs.
 
 
